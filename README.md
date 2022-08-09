@@ -4,4 +4,10 @@
 1. Install tools
 2. Create React Application
 3. Créer un repot git par vscode
+# Liste des produits
+1. Créer tableau des xduits
+2. Rajout des images
+3. Le rendu
+4. formes et couleurs aux produits
+
 
