@@ -36,6 +36,9 @@
 1. define reducer
 2. update fetch data
 3. get state from usReducer
+# Add bootstrap UI Framework pour avoir une image pro
+1. install react bootstrap
+2. update de l'appli
 
 
 
