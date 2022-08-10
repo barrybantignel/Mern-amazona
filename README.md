@@ -39,6 +39,11 @@
 # Add bootstrap UI Framework pour avoir une image pro
 1. install react bootstrap
 2. update de l'appli
+# Create Product et Rating(Avis) Component
+1. créer Rating component
+2. créer Product component
+3. utiliser Rating component dans le compoant produit
+
 
 
 

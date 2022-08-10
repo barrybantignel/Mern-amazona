@@ -10,7 +10,6 @@ body {
 .site-container {
   min-height: 100vh;
 }
-
 header {
   background-color: #404040;
   padding: 1 rem;
@@ -21,19 +20,28 @@ header a {
   text-decoration: none;
 }
 main {
-  padding: 1 ;
+  padding: 1;
 }
 
-.products{
+.btn-primary,
+.btn-outline-primary {
+  background-color: #f0c040;
+  color: #000000;
+}
+
+.products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
-.product{
+.product {
   border: 1px #404040 solid;
   margin: 1rem;
 }
 .product img {
   width: 100%;
-  max-width: 400px; 
+  max-width: 400px;
+}
+.rating span {
+  color: #ffc000;
 }
