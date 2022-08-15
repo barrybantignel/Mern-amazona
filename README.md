@@ -43,6 +43,9 @@
 1. créer Rating component
 2. créer Product component
 3. utiliser Rating component dans le compoant produit
+# Détails du filtre produit
+1. Fetch product à partir du backend
+2. Créer 3 colonnes d'images, info, actions
 
 
 
